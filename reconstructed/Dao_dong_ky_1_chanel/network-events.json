@@ -1,0 +1,159 @@
+{
+  "evidence_id": "ev_98b4d3c3c9c39d7c23a80ecc478322d7b9798caa084c885158b95dbd1efafb1b",
+  "events": [
+    {
+      "sequence": 1,
+      "kind": "request",
+      "method": "GET",
+      "status": null,
+      "resource_type": "document",
+      "url": {
+        "url": "https://vobinhminh.github.io/Dao_dong_ky_1_chanel/",
+        "origin": "https://vobinhminh.github.io",
+        "query_parameter_names": [],
+        "redacted": false
+      },
+      "body_keys": []
+    },
+    {
+      "sequence": 2,
+      "kind": "response",
+      "method": "GET",
+      "status": 200,
+      "resource_type": "document",
+      "url": {
+        "url": "https://vobinhminh.github.io/Dao_dong_ky_1_chanel/",
+        "origin": "https://vobinhminh.github.io",
+        "query_parameter_names": [],
+        "redacted": false
+      },
+      "body_keys": []
+    },
+    {
+      "sequence": 3,
+      "kind": "request-finished",
+      "method": "GET",
+      "status": null,
+      "resource_type": "document",
+      "url": {
+        "url": "https://vobinhminh.github.io/Dao_dong_ky_1_chanel/",
+        "origin": "https://vobinhminh.github.io",
+        "query_parameter_names": [],
+        "redacted": false
+      },
+      "body_keys": []
+    },
+    {
+      "sequence": 4,
+      "kind": "network-content",
+      "body_keys": [
+        "state",
+        "representation",
+        "encoding",
+        "content",
+        "bytes",
+        "sha256",
+        "media_type",
+        "redacted"
+      ]
+    },
+    {
+      "sequence": 5,
+      "kind": "request",
+      "method": "GET",
+      "status": null,
+      "resource_type": "image",
+      "url": {
+        "url": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https%3A%2F%2Fvobinhminh.github.io%2FDao_dong_ky_1_chanel%2F",
+        "origin": "https://api.qrserver.com",
+        "query_parameter_names": [
+          "size",
+          "data"
+        ],
+        "redacted": false
+      },
+      "body_keys": []
+    },
+    {
+      "sequence": 6,
+      "kind": "response",
+      "method": "GET",
+      "status": 200,
+      "resource_type": "image",
+      "url": {
+        "url": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https%3A%2F%2Fvobinhminh.github.io%2FDao_dong_ky_1_chanel%2F",
+        "origin": "https://api.qrserver.com",
+        "query_parameter_names": [
+          "size",
+          "data"
+        ],
+        "redacted": false
+      },
+      "body_keys": []
+    },
+    {
+      "sequence": 7,
+      "kind": "request-finished",
+      "method": "GET",
+      "status": null,
+      "resource_type": "image",
+      "url": {
+        "url": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https%3A%2F%2Fvobinhminh.github.io%2FDao_dong_ky_1_chanel%2F",
+        "origin": "https://api.qrserver.com",
+        "query_parameter_names": [
+          "size",
+          "data"
+        ],
+        "redacted": false
+      },
+      "body_keys": []
+    },
+    {
+      "sequence": 8,
+      "kind": "network-content",
+      "body_keys": [
+        "state",
+        "representation",
+        "encoding",
+        "content",
+        "bytes",
+        "sha256",
+        "media_type",
+        "redacted"
+      ]
+    },
+    {
+      "sequence": 9,
+      "kind": "console",
+      "url": {
+        "url": "https://vobinhminh.github.io/favicon.ico",
+        "origin": "https://vobinhminh.github.io",
+        "query_parameter_names": [],
+        "redacted": false
+      },
+      "body_keys": []
+    }
+  ],
+  "content_kinds": [
+    [
+      "sequence",
+      "step_index",
+      "kind",
+      "transaction_id",
+      "source_event_sequence",
+      "phase",
+      "headers",
+      "body"
+    ],
+    [
+      "sequence",
+      "step_index",
+      "kind",
+      "transaction_id",
+      "source_event_sequence",
+      "phase",
+      "headers",
+      "body"
+    ]
+  ]
+}
